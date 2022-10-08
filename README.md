@@ -22,7 +22,11 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Dokumentasi API dan Video
+
+<a href="https://documenter.getpostman.com/view/11542116/2s83zgujhE">API</a>
+<br>
+<a href="https://www.awesomescreenshot.com/video/11590712?key=c40825fa7fc29b41e972ea0a7c0cd598">Video</a>
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
